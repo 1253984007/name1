@@ -1,22 +1,22 @@
 PODS:
-  - Masonry (1.1.0)
+  - SnapKit (5.7.1)
   - YYKit (1.0.9):
     - YYKit/no-arc (= 1.0.9)
   - YYKit/no-arc (1.0.9)
 
 DEPENDENCIES:
-  - Masonry
+  - SnapKit
   - YYKit
 
 SPEC REPOS:
-  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
-    - Masonry
+  trunk:
+    - SnapKit
     - YYKit
 
 SPEC CHECKSUMS:
-  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 9ac175acbe91bcc6ca6aa588a71a446ce89b1415
+PODFILE CHECKSUM: dda0c88a4f5f579288cb802a78eb0ce52908c47d
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.15.2
